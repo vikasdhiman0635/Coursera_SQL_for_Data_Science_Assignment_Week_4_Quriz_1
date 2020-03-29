@@ -1,1 +1,1 @@
-# SQL_for_Data_Science_Assignment_Week_4_Quriz_1
+# Coursera_SQL_for_Data_Science_Assignment_Week_4_Quriz_1
